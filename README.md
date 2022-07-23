@@ -1,0 +1,1 @@
+This project is under development. We intend to provide easy AJAX capabilities in svelte without writing lot of code. Stay tuned for updates.
