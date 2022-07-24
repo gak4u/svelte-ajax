@@ -2,7 +2,7 @@
   "name": "svelte-ajax",
   "homepage": "https://github.com/gak4u/svelte-ajax#readme",
   "description": "Svelte component for making AJAX requests with few lines of code",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "main": "lib/index.js",
   "scripts": {
