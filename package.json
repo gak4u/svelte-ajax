@@ -1,5 +1,7 @@
 {
   "name": "svelte-ajax",
+  "homepage": "https://github.com/gak4u/svelte-ajax#readme",
+  "description": "Svelte component for making AJAX requests with few lines of code",
   "version": "1.0.0",
   "private": false,
   "main": "lib/index.js",
@@ -16,9 +18,25 @@
     "rollup-plugin-livereload": "^2.0.0",
     "rollup-plugin-svelte": "^7.0.0",
     "rollup-plugin-terser": "^7.0.0",
-    "svelte": "^3.0.0"
+    "sirv-cli": "^2.0.0"
   },
   "dependencies": {
-    "sirv-cli": "^2.0.0"
-  }
+    "svelte": "^3.0.0"
+  },
+  {
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/gak4u/svelte-ajax.git"
+    }
+  },
+  "keywords": [
+    "svelte",
+    "ajax",
+    "fetch",
+    "json",
+    "api",
+    "rest",
+    "api-client",
+    "api-client-svelte"
+  ]
 }
